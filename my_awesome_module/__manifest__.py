@@ -27,10 +27,11 @@
         'views/res_partner_views.xml',
         'views/product_views.xml',
         'views/sale_order_views.xml',
+        'data/actions.xml',
     ],
     # only loaded in demonstration mode
     'demo': [
-
+        'demo/demo.xml',
     ],
     'license': 'OEEL-1',
 }
