@@ -20,7 +20,7 @@ in the model `ir.config_parameter` which uses a `key` field and a `value` field.
             <field name="value">unset</field>
         </record>
     </data>
-</odoo>u
+</odoo>
 ```
 
 <GitHubButton link="https://github.com/odoo-ps/psae-btco/blob/sally-flower-shop/flower_shop/data/config.xml"></GitHubButton>
